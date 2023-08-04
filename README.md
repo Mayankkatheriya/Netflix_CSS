@@ -1,4 +1,6 @@
 # Netflix_CSS
+## Hosted Link: https://mayankkatheriya.github.io/Netflix_CSS/
+
 ![1a](https://github.com/Mayankkatheriya/Netflix_CSS/assets/128832286/4e569c60-b545-4d78-a16d-357dc9f83612)\
 first we designed a HTML page to give structure to our web page in file name index.html<br>
 here we define a "div" of class shadow to give shadow effect<br>
